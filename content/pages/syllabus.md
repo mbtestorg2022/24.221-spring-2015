@@ -28,23 +28,169 @@ MIT students were required to take one philosophy course prior to this one.
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation | 10% |
-| Problem set 1 | 15% |
-| Problem set 2 | 15% |
-| Problem set 3 | 15% |
-| Final paper | 45% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 1
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 2
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 3
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1–5 | Ontology | &nbsp; |
-| 6–8 | Time | Problem Set 1 due on session 6 |
-| 9–12 | Identity | Problem Set 2 due on session 12 |
-| 13–16 | Modality | &nbsp; |
-| 17–19 | Free Will | Problem Set 3 due on session 19 |
-| 20–22 | Causation | Final Paper Outline due on session 21 |
-| 23–25 | Ontology, reconsidered | Final Paper due on session 25
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1–5
+{{< tdclose >}}
+{{< tdopen >}}
+Ontology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6–8
+{{< tdclose >}}
+{{< tdopen >}}
+Time
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 1 due on session 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9–12
+{{< tdclose >}}
+{{< tdopen >}}
+Identity
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 2 due on session 12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13–16
+{{< tdclose >}}
+{{< tdopen >}}
+Modality
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17–19
+{{< tdclose >}}
+{{< tdopen >}}
+Free Will
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 3 due on session 19
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20–22
+{{< tdclose >}}
+{{< tdopen >}}
+Causation
+{{< tdclose >}}
+{{< tdopen >}}
+Final Paper Outline due on session 21
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23–25
+{{< tdclose >}}
+{{< tdopen >}}
+Ontology, reconsidered
+{{< tdclose >}}
+{{< tdopen >}}
+Final Paper due on session 25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
