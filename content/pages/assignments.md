@@ -24,7 +24,7 @@ Final Paper, Due Last Session (5–8 Pages)
 
 [Jim Pryor's Guide to Writing Philosophy Papers](http://www.jimpryor.net/teaching/guidelines/writing.html) (including grading guidelines)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Pink Guide to Taking Philosophy Classes (PDF)](/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/resources/mit24_08js09_read)
+[The Pink Guide to Taking Philosophy Classes (PDF)](/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/resources/mit24_08js09_read)
 
 ### Sample Student Work
 

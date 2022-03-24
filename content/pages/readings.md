@@ -97,7 +97,7 @@ Parsons, Josh. "[A–Theory for B–Theorists](http://dx.doi.org/10.1111/1467-92
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Lewis, David. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Paradoxes of Time Travel." (PDF)](http://www.csus.edu/indiv/m/merlinos/Paradoxes%20of%20Time%20Travel.pdf) _American Philosophical Quarterly_ 13, no. 2 (1976): 145–52.
+Lewis, David. ["The Paradoxes of Time Travel." (PDF)](http://www.csus.edu/indiv/m/merlinos/Paradoxes%20of%20Time%20Travel.pdf) _American Philosophical Quarterly_ 13, no. 2 (1976): 145–52.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +229,7 @@ Beebee, Helen. "[Local Miracle Compatibilism](http://dx.doi.org/10.1111/1468-006
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Davidson, Donald. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Causal Relations." (PDF)](http://fitelson.org/woodward/davidson.pdf) _The Journal of Philosophy_ 64, no. 21 (1967): 691–703. (Sixty–Fourth Annual Meeting of the American Philosophical Association Eastern Division)
+Davidson, Donald. ["Causal Relations." (PDF)](http://fitelson.org/woodward/davidson.pdf) _The Journal of Philosophy_ 64, no. 21 (1967): 691–703. (Sixty–Fourth Annual Meeting of the American Philosophical Association Eastern Division)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -238,7 +238,7 @@ Davidson, Donald. [![This resource may not render correctly in a screen reader.]
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Lewis, David. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Causation." (PDF - 1.3MB)](https://www2.southeastern.edu/Academics/Faculty/jbell/lewis.pdf) _The Journal of Philosophy_ 70, no. 17 (1973): 556–67. (Seventieth Annual Meeting of the American Philosophical Association Eastern Division)
+Lewis, David. ["Causation." (PDF - 1.3MB)](https://www2.southeastern.edu/Academics/Faculty/jbell/lewis.pdf) _The Journal of Philosophy_ 70, no. 17 (1973): 556–67. (Seventieth Annual Meeting of the American Philosophical Association Eastern Division)
 {{< tdclose >}}
 
 {{< trclose >}}
